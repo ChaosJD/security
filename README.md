@@ -45,3 +45,5 @@
 # secure Programming with Components
 
 ## Trust Boundaries
+
+![TrustBoundaries](./pics/SecureProgrammingWithComponents.svg)
