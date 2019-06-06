@@ -47,3 +47,36 @@
 ## Trust Boundaries
 
 ![TrustBoundaries](./pics/SecureProgrammingWithComponents.svg)
+
+### Kanonisierung
+* check namew with regular expressions
+* only long datafilename
+* point @ the end away
+* **absolute** path
+
+#### Where to check
+* user inputs
+* transfer of parameters
+* access to system ressources
+
+### Validation
+* build domaintypes ( e-mail, account, date, customer-ID)
+* validation before any other task
+* Carry out authorization together with validation
+* Whitelist 
+* Never use client-side validation as the only basis for decision making for example javaScript
+
+## Use Data-Indirektion
+* Keep important data as far as possible on the server
+* incoming data ar not destination data
+* incoming data is not the target data but only to search the target data geeginet  
+    accountnumber, price of a product via customer number or referent with article number
+    
+## serverside gernerated data
+safe inut with cryptographic hash function(MAC) or encoding
+
+## Metasign Problems
+<dl>
+  <dt> Metasign </dt>
+  </dd> When submitting data to a subsystem, they convert from a text character to a control character</dd>
+</dl>
