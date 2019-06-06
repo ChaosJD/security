@@ -41,3 +41,7 @@
    this is embedded in the delivered page
    request of sensitive actions must include "challenge" token
    challenge token in the request must be checked on the server before executing the action.
+
+# secure Programming with Components
+
+## Trust Boundaries
