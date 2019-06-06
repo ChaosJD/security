@@ -51,7 +51,7 @@
 ### Kanonisierung
 * check namew with regular expressions
 * only long datafilename
-* point @ the end away
+* point the end away
 * **absolute** path
 
 #### Where to check
@@ -80,3 +80,51 @@ safe inut with cryptographic hash function(MAC) or encoding
   <dt> Metasign </dt>
   </dd> When submitting data to a subsystem, they convert from a text character to a control character</dd>
 </dl>
+
+* insert escape character eg /, if metacharacters also make sense as a normal character  
+  otherwise remove meta characters
+* Use subsystems to interpret metacharacters (e.g., prepared statements
+* Encapsulation of communication with other systems
+* Minimize authorization in subsystems
+* input validation
+* Staggered Defense: If one security mechanism fails, another should handle the problem.
+
+## treatment of incorrect entries
+* user inputs
+* server inputs  
+
+**Never** correct an invalid entry to make it valid
+**Never** return error messages to the user interface
+
+## Logging part1
+* Sytem Logs are unsatisfactory
+* Additional logging at the application level
+* Monitoring programs [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system)
+
+## Loggin part2
+* anwendungslogs
+* schnittstellen logs
+* server-logs
+* Betriebsystem-logs  
+
+What will be logged?[cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Logging_Cheat_Sheet.md)  
+
+how are the logs collected? [logstash](https://www.elastic.co/products/logstash)
+how are the log analyzed?? (https://www.elastic.co/products/kibana)[kibana]
+prefabricated corresponding chain for log analysis[ossec](https://www.ossec.net/about/)
+
+## Test all Software
+* create extensive automated tests
+* Fuzz Testing, Robustness Testing, Fault Injection
+* Vulnerability scanner
+* Software should not crash or provide incorrect results
+
+* automated static analysis tools  
+  compile time warning where errors can occur  
+* Manual tests that are beyond the automated tests  
+    * [Penetration Tes](https://en.wikipedia.org/wiki/Penetration_test),
+    * [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling),
+    * interactive tools
+
+* Execute program under extreme conditions  
+  low memory, insufficient rights, interrupt transactions, disconnect network.
