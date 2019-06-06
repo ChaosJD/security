@@ -83,7 +83,7 @@ safe inut with cryptographic hash function(MAC) or encoding
 
 * insert escape character eg /, if metacharacters also make sense as a normal character  
   otherwise remove meta characters
-* Use subsystems to interpret metacharacters (e.g., prepared statements
+* Use subsystems to interpret metacharacters (e.g., prepared statements)
 * Encapsulation of communication with other systems
 * Minimize authorization in subsystems
 * input validation
