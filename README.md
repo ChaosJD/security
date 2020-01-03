@@ -128,3 +128,7 @@ prefabricated corresponding chain for log analysis[ossec](https://www.ossec.net/
 
 * Execute program under extreme conditions  
   low memory, insufficient rights, interrupt transactions, disconnect network.
+  
+## E-Mail
+QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um das Problem der De-Anonymisierung zu lösen.  
+[36C3: Wie gängige Methoden zur Anonymisierung von Daten versagen](https://www.heise.de/newsticker/meldung/36C3-Wie-gaengige-Methoden-zur-Anonymisierung-von-Daten-versagen-4624450.html)
