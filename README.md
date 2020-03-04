@@ -117,17 +117,16 @@ prefabricated corresponding chain for log analysis[ossec](https://www.ossec.net/
 * create extensive automated tests
 * Fuzz Testing, Robustness Testing, Fault Injection
 * Vulnerability scanner
-* Software should not crash or provide incorrect results
-
+* Software should not crash or provide incorrect results  
 * automated static analysis tools  
   compile time warning where errors can occur  
 * Manual tests that are beyond the automated tests  
     * [Penetration Tes](https://en.wikipedia.org/wiki/Penetration_test),
     * [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling),
-    * interactive tools
-
+    * interactive tools  
 * Execute program under extreme conditions  
   low memory, insufficient rights, interrupt transactions, disconnect network.
+* [Fuzzing-Benchmark](https://www.heise.de/developer/meldung/Google-startet-mit-FuzzBench-ein-Benchmark-Projekt-fuer-Fuzzing-4674146.html)  
   
 ## E-Mail
 QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um das Problem der De-Anonymisierung zu lösen.  
