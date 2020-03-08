@@ -134,3 +134,6 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 
 ## BSI
 [IT-Grundschutz](https://www.heise.de/ix/meldung/BSI-Richtlinien-fuer-sichere-Softwareentwicklung-4653710.html)  
+
+## Kryptografie
+[ZeroKnowledeProf-wikipedia](https://de.wikipedia.org/wiki/Zero-Knowledge-Beweis)
