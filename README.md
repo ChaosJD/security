@@ -147,3 +147,6 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
+
+## vids
+[OerationRubikon-zdfInfo](https://www.zdf.de/dokumentation/zdfinfo-doku/operation-rubikon--100.html)  
