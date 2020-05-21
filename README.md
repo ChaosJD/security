@@ -121,7 +121,7 @@ prefabricated corresponding chain for log analysis[ossec](https://www.ossec.net/
 * automated static analysis tools  
   compile time warning where errors can occur  
 * Manual tests that are beyond the automated tests  
-    * [Penetration Tes](https://en.wikipedia.org/wiki/Penetration_test),
+    * [Penetration Test](https://en.wikipedia.org/wiki/Penetration_test),
     * [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling),
     * interactive tools  
 * Execute program under extreme conditions  
@@ -150,4 +150,5 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
 
 ## vids
-[OerationRubikon-zdfInfo](https://www.zdf.de/dokumentation/zdfinfo-doku/operation-rubikon--100.html)  
+* [OerationRubikon-zdfInfo](https://www.zdf.de/dokumentation/zdfinfo-doku/operation-rubikon--100.html)  
+* [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://youtu.be/X4eRbHgRawI)
