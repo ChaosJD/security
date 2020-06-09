@@ -146,6 +146,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 * [Für angehende Verschlüsselungsexperten: Lern-Software CrypTool 2 2020.1 ist da]( https://heise.de/-4696193 )  
 * [Kurz ausprobiert: Parrot Security, ein vogelbuntes Linux-System für Pentester]( https://heise.de/-4718721)  
 * [„Credential Stuffing“: Sicherheitsproblem Bequemlichkeit ](https://heise.de/-4723595)
+* [License To Pentest: Ethical Hacking Course For Beginners](https://www.freecodecamp.org/news/license-to-pentest-ethical-hacking-course-for-beginners/)
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
