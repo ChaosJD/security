@@ -138,7 +138,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 ## Kryptografie
 [ZeroKnowledeProf-wikipedia](https://de.wikipedia.org/wiki/Zero-Knowledge-Beweis)
 
-## OWASP
+## OWAS
 [API-golem](https://www.golem.de/news/computer-vision-mehr-durchblick-beim-maschinellen-sehen-2001-144949.html)
 
 ## articles
@@ -146,7 +146,8 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 * [Für angehende Verschlüsselungsexperten: Lern-Software CrypTool 2 2020.1 ist da]( https://heise.de/-4696193 )  
 * [Kurz ausprobiert: Parrot Security, ein vogelbuntes Linux-System für Pentester]( https://heise.de/-4718721)  
 * [„Credential Stuffing“: Sicherheitsproblem Bequemlichkeit ](https://heise.de/-4723595)
-* [License To Pentest: Ethical Hacking Course For Beginners](https://www.freecodecamp.org/news/license-to-pentest-ethical-hacking-course-for-beginners/)
+* [License To Pentest: Ethical Hacking Course For Beginners](https://www.freecodecamp.org/news/license-to-pentest-ethical-hacking-course-for-beginners/)  
+* [Google macht Netzwerksicherheits-Scanner "Tsunami" zum Open-Source-Projekt]( https://heise.de/-4840025)
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
