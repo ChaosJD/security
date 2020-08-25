@@ -156,3 +156,11 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 ## vids
 * [OerationRubikon-zdfInfo](https://www.zdf.de/dokumentation/zdfinfo-doku/operation-rubikon--100.html)  
 * [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://youtu.be/X4eRbHgRawI)
+
+## tut
+### needs money
+* [Haking-OnlineCouses](https://hakin9.org/online-courses-2/)
+* [comptia](https://www.comptia.org/certifications/it-fundamentals#examdetailshttps://www.comptia.org/certifications/it-fundamentals#examdetails)
+
+### roadmaps
+* [comptia-RoadMap](https://hakin9.org/it-certification-roadmap-by-comptia/)
