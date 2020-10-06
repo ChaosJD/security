@@ -164,3 +164,6 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 
 ### roadmaps
 * [comptia-RoadMap](https://hakin9.org/it-certification-roadmap-by-comptia/)
+
+## frameworks
+* [Metasploit — A Walkthrough Of The Powerful Exploitation Framework](https://www.freecodecamp.org/news/metasploit-a-walkthrough-of-the-powerful-exploitation-framework/)
