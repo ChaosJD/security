@@ -149,6 +149,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 * [License To Pentest: Ethical Hacking Course For Beginners](https://www.freecodecamp.org/news/license-to-pentest-ethical-hacking-course-for-beginners/)  
 * [Google macht Netzwerksicherheits-Scanner "Tsunami" zum Open-Source-Projekt]( https://heise.de/-4840025)
 * [Unsicherer Code ist die Regel, nicht die Ausnahme](https://heise.de/-4865594)
+* [Einfach anonym Dateien teilen](https://www.golem.de/news/onionshare-einfach-anonym-dateien-teilen-2105-156215.html)
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
