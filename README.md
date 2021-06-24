@@ -162,6 +162,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 ### needs money
 * [Haking-OnlineCouses](https://hakin9.org/online-courses-2/)
 * [comptia](https://www.comptia.org/certifications/it-fundamentals#examdetailshttps://www.comptia.org/certifications/it-fundamentals#examdetails)
+* [PrivacyHandbuch](https://privacy-handbuch.de/)
 
 ### roadmaps
 * [comptia-RoadMap](https://hakin9.org/it-certification-roadmap-by-comptia/)
