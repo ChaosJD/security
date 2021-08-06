@@ -151,6 +151,8 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 * [Unsicherer Code ist die Regel, nicht die Ausnahme](https://heise.de/-4865594)
 * [Einfach anonym Dateien teilen](https://www.golem.de/news/onionshare-einfach-anonym-dateien-teilen-2105-156215.html)
 * [Softwareentwicklung und Datenschutz – wie passt das zusammen?](https://heise.de/-6155870)
+  Gemäß ARt 13. DSGVO müssen die Datenschutzinformationen unter anderm über Datenströme zu Dritten aufklären. Fließen die Anforderungen hinsichtilich der Transparenz bereits bei der Architektur & Entwicklung einer Applikation bewusst in die Programmierung ein, erleichtert deis den datenschutzkonformen Einsatz & die Erfüllung der Transparenzplichten maßgeblich.
+  Softwareentwickler sind gut beraten, sich bei der Auswahl von Frameworks & Bibliotheken an allgemeine weit verbreitete Komponenten zu halten. Die Wahrscheinlichkeit, dass diese externe Audits & Reviews standhalten ist in der Regel größer.
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
