@@ -153,6 +153,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 * [Softwareentwicklung und Datenschutz – wie passt das zusammen?](https://heise.de/-6155870)
   Gemäß ARt 13. DSGVO müssen die Datenschutzinformationen unter anderm über Datenströme zu Dritten aufklären. Fließen die Anforderungen hinsichtilich der Transparenz bereits bei der Architektur & Entwicklung einer Applikation bewusst in die Programmierung ein, erleichtert deis den datenschutzkonformen Einsatz & die Erfüllung der Transparenzplichten maßgeblich.
   Softwareentwickler sind gut beraten, sich bei der Auswahl von Frameworks & Bibliotheken an allgemeine weit verbreitete Komponenten zu halten. Die Wahrscheinlichkeit, dass diese externe Audits & Reviews standhalten ist in der Regel größer.
+ * [Programmiersprachen lassen sich per Unicode trojanisieren](https://www.golem.de/news/trojan-source-programmiersprachen-lassen-sich-per-unicode-trojanisieren-2111-160751.html)
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
