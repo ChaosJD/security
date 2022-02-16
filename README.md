@@ -156,6 +156,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
  * [Programmiersprachen lassen sich per Unicode trojanisieren](https://www.golem.de/news/trojan-source-programmiersprachen-lassen-sich-per-unicode-trojanisieren-2111-160751.html)
  * [Warning about bidirectional Unicode text ](https://github.blog/changelog/2021-10-31-warning-about-bidirectional-unicode-text/)
  * [Schutz vor schwerwiegender Log4j-Lücke - was jetzt hilft und was nicht](https://heise.de/-6292961)
+ * [Softwarefehler: Radiosender in Seattle schrottet Infotainment von Mazda](https://heise.de/-6446140)
 
 ## quantencomputer
 [BSI veröffentlicht Handlungsempfehlungen für Post-Quanten-Kryptografie](https://heise.de/-4692140)  
