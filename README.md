@@ -182,3 +182,6 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 
 # searching Engine
 * [Shodan](https://www.shodan.io/)
+
+# Passwörter
+[https://www.golem.de/news/untersuchung-zeigt-so-schnell-knackt-aktuelle-hardware-passwoerter-2505-195976.html]([url](https://www.golem.de/news/untersuchung-zeigt-so-schnell-knackt-aktuelle-hardware-passwoerter-2505-195976.html))
