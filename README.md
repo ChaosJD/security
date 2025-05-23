@@ -199,5 +199,5 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 * [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
 * [https://owasp.org/www-project-cyclonedx/](https://owasp.org/www-project-cyclonedx/)
 * [https://owasp.org/www-project-security-shepherd/](https://owasp.org/www-project-security-shepherd/)
-* [https://owasp.org/www-project-application-security-verification-standard/](https://owasp.org/www-project-application-security-verification-standard/
+* [https://owasp.org/www-project-application-security-verification-standard/](https://owasp.org/www-project-application-security-verification-standard/)
 * [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)
