@@ -185,3 +185,19 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 
 # Passwörter
 [https://www.golem.de/news/untersuchung-zeigt-so-schnell-knackt-aktuelle-hardware-passwoerter-2505-195976.html]([url](https://www.golem.de/news/untersuchung-zeigt-so-schnell-knackt-aktuelle-hardware-passwoerter-2505-195976.html))
+
+# DevSecOps
+* [](url)
+
+# Leak Checks
+* [https://sec.hpi.de/ilc/]([url](https://sec.hpi.de/ilc/))
+* [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+
+# OWASP Tools
+* [https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
+* [https://www.zaproxy.org/]([url](https://www.zaproxy.org/))
+* [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
+* [https://owasp.org/www-project-cyclonedx/](https://owasp.org/www-project-cyclonedx/)
+* [https://owasp.org/www-project-security-shepherd/](https://owasp.org/www-project-security-shepherd/)
+* [https://owasp.org/www-project-application-security-verification-standard/]([url](https://owasp.org/www-project-application-security-verification-standard/))
+* [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)
