@@ -201,3 +201,4 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 * [https://owasp.org/www-project-security-shepherd/](https://owasp.org/www-project-security-shepherd/)
 * [https://owasp.org/www-project-application-security-verification-standard/](https://owasp.org/www-project-application-security-verification-standard/)
 * [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)
+* [https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE](https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE)
