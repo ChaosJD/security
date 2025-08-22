@@ -205,4 +205,4 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 * [https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE](https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE)
 
 ## Passwords
-* [Argon2](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id)
+* [Argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id)
