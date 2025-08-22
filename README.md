@@ -193,7 +193,8 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 * [https://sec.hpi.de/ilc/]([url](https://sec.hpi.de/ilc/))
 * [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
-# OWASP Tools
+# OWASP
+## Tools
 * [https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
 * [https://www.zaproxy.org/](https://www.zaproxy.org/)
 * [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)
@@ -202,3 +203,6 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 * [https://owasp.org/www-project-application-security-verification-standard/](https://owasp.org/www-project-application-security-verification-standard/)
 * [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)
 * [https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE](https://www.dependencytrack.com/cryptosoft-owasp-dependency-track-saas/?gad_source=1&gad_campaignid=22444087152&gbraid=0AAAAA9U2Y934bOKmjoCLzZCOL6TIxw73b&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzmEV1pyeBKa8iLJbUsP_ZKEZdVD2KMPDQwK-E9Eh7d6KQO8jMOEYtRoCUusQAvD_BwE)
+
+## Passwords
+* [Argon2](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id)
