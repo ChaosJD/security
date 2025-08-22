@@ -206,6 +206,7 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 
 ## Passwords
 * [Argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id)
+* [PasswordVerifyer]([url](https://nordpass.com/secure-password/))
 
   # Geeks_for_Geeks
 * [Security-Testing]([url](https://www.geeksforgeeks.org/software-testing/security-testing/))
