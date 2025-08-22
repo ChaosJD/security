@@ -138,7 +138,7 @@ QBS, QA, DP, SMPC und HE – keine von ihnen allein sei eine "Silver Bullet", um
 ## Kryptografie
 [ZeroKnowledeProf-wikipedia](https://de.wikipedia.org/wiki/Zero-Knowledge-Beweis)
 
-## OWAS
+## OWASP
 [API-golem](https://www.golem.de/news/computer-vision-mehr-durchblick-beim-maschinellen-sehen-2001-144949.html)
 
 ## articles
@@ -206,3 +206,6 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 
 ## Passwords
 * [Argon2id](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md#argon2id)
+
+  # Geeks_for_Geeks
+* [Security-Testing]([url](https://www.geeksforgeeks.org/software-testing/security-testing/))
