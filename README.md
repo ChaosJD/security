@@ -210,3 +210,6 @@ Software Schwachstellen werden mit dem englischen Begriff bug bezeichnet und bed
 
   # Geeks_for_Geeks
 * [Security-Testing]([url](https://www.geeksforgeeks.org/software-testing/security-testing/))
+* 
+## npm
+[https://www.npmjs.com/package/@aikidosec/safe-chain]([url](https://www.npmjs.com/package/@aikidosec/safe-chain))
